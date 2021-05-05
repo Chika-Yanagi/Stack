@@ -14,6 +14,6 @@ push e
 pop  
 push f ← と入力し改行する。改行したら最後にCtrl-D を押す  
 [a, b, d, f] ← 関数printstack によって表示されたスタックの内容  
-ce ←スタックからpop された文字列 (関数test の 29--32行目で表示)  
+ce ←スタックからpop された文字列  
   
   
