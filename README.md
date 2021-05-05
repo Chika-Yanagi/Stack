@@ -3,7 +3,7 @@
   
 [入出力例]  
 gcc -std=c99 -o stack stack.c  
-stack  
+./stack  
   
 push a  
 push b  
